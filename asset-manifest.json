@@ -1,13 +1,26 @@
 {
   "files": {
     "main.css": "/quiz-app/static/css/main.dc4d6ff2.css",
-    "main.js": "/quiz-app/static/js/main.c9ba3d5b.js",
+    "main.js": "/quiz-app/static/js/main.7cf2ca8d.js",
+    "static/media/question1.jpg": "/quiz-app/static/media/question1.9ce1b0204a8c9f6d8b05.jpg",
+    "static/media/question8.jpeg": "/quiz-app/static/media/question8.4cfda4095e2104831047.jpeg",
+    "static/media/question9.jpg": "/quiz-app/static/media/question9.6c8b719c8b4620e2d03f.jpg",
+    "static/media/question4.jpg": "/quiz-app/static/media/question4.5f2d254b6fd96a6f8ace.jpg",
+    "static/media/gs-logo.png": "/quiz-app/static/media/gs-logo.f3e00993aa8c821cd44d.png",
+    "static/media/question12.jpg": "/quiz-app/static/media/question12.5c83700be5a6ece5b47e.jpg",
+    "static/media/question11.jpg": "/quiz-app/static/media/question11.393c2ccf3b658542d8d3.jpg",
+    "static/media/question5.jpg": "/quiz-app/static/media/question5.1e12b4bcd8815a1f65df.jpg",
+    "static/media/question3.jpg": "/quiz-app/static/media/question3.c3e4bfe9e9aa89e1ffb7.jpg",
+    "static/media/question10.webp": "/quiz-app/static/media/question10.23a6956799d820a5e341.webp",
+    "static/media/question6.jpg": "/quiz-app/static/media/question6.35cdcbf9e75f2347dc00.jpg",
+    "static/media/question2.jpg": "/quiz-app/static/media/question2.f8a0b0e9b7c0e6203bf1.jpg",
+    "static/media/question7.webp": "/quiz-app/static/media/question7.e139c4dfb05af13bd92e.webp",
     "index.html": "/quiz-app/index.html",
     "main.dc4d6ff2.css.map": "/quiz-app/static/css/main.dc4d6ff2.css.map",
-    "main.c9ba3d5b.js.map": "/quiz-app/static/js/main.c9ba3d5b.js.map"
+    "main.7cf2ca8d.js.map": "/quiz-app/static/js/main.7cf2ca8d.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.c9ba3d5b.js"
+    "static/js/main.7cf2ca8d.js"
   ]
 }
