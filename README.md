@@ -1,4 +1,4 @@
-##Galatasaray Quiz
+Galatasaray Quiz
 
 This interactive quiz app is dedicated to Galatasaray enthusiasts. Test your knowledge about the club’s history, players, and unforgettable moments through a fun and engaging experience built with JavaScript and React.
 
