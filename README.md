@@ -20,3 +20,27 @@ An interactive quiz application built with React and JavaScript for Galatasaray 
 
 ## 📁 Project Structure
 
+quiz-app/ ├── public/ │ └── index.html ├── src/ │ ├── components/ │ │ └── Quiz.js # Main quiz logic and rendering │ ├── data/ │ │ └── questions.js # All quiz questions and answers │ ├── App.js # Main component with routes │ ├── index.js # Entry point │ └── styles.css # Custom styling ├── package.json └── README.md
+
+
+## 🎯 Features
+
+- ✅ Multiple-choice quiz questions
+- ✅ Instant feedback on selected answers
+- ✅ Real-time score tracking
+- ✅ Mobile-friendly responsive design
+- ✅ Fully client-side – no backend required
+
+## 📦 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/UfukCefaker/quiz-app.git
+cd quiz-app
+npm install
+npm start
+Then open your browser and go to http://localhost:3000.
+```
+💛❤️ “Once Galatasaray, always Galatasaray.”
+
